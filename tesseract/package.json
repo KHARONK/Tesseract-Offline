@@ -1,0 +1,19 @@
+{
+  "name": "tesseract",
+  "version": "1.0.0",
+  "description": "Using ORC with tesseract offline to retrieve text from pictures or images. Thus no need for online or any files downloads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "tesseract.js": "^2.0.0-beta.1",
+    "tesseract.js-core": "^2.0.0-beta.13",
+    "nodemon": "^2.0.20"
+  }
+}
